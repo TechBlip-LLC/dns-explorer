@@ -1,0 +1,22 @@
+/* Base theme variables */
+:root {
+  --primary-bg: theme('colors.white');
+  --secondary-bg: theme('colors.gray.50');
+  --text-primary: theme('colors.gray.900');
+  --text-secondary: theme('colors.gray.600');
+}
+
+/* Dark theme overrides */
+.dark {
+  --primary-bg: theme('colors.gray.900');
+  --secondary-bg: theme('colors.gray.800');
+  --text-primary: theme('colors.gray.100');
+  --text-secondary: theme('colors.gray.400');
+}
+
+/* Theme transitions */
+.theme-transition {
+  transition-property: background-color, border-color, color, fill, stroke;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 200ms;
+}
