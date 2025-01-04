@@ -59,4 +59,4 @@ Some sections of this code were generated with the assistance of AI tools.  Thes
 
 ## License
 
-MIT License - see the [LICENSE](LICENSE) file for details
+Apache-2.0 license - see the [LICENSE](LICENSE) file for details
