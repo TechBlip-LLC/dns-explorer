@@ -1,6 +1,6 @@
 # DNS Explorer
 
-[![License](https://img.shields.io/badge/license-MIT-green)](https://file+.vscode-resource.vscode-cdn.net/home/ed/Desktop/2024-Projects/BOLT-PROJECTS/dns-explorer/LICENSE)  ![React](https://img.shields.io/badge/react-18.3.1-61DAFB?logo=react)  [![TypeScript](https://img.shields.io/badge/typescript-5.5.3-3178C6?logo=typescript)](https://www.typescriptlang.org/)  [![Vite](https://img.shields.io/badge/vite-5.4.2-646CFF?logo=vite)](https://vitejs.dev/)  [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-3.4.1-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
+![React](https://img.shields.io/badge/react-18.3.1-61DAFB?logo=react)  [![TypeScript](https://img.shields.io/badge/typescript-5.5.3-3178C6?logo=typescript)](https://www.typescriptlang.org/)  [![Vite](https://img.shields.io/badge/vite-5.4.2-646CFF?logo=vite)](https://vitejs.dev/)  [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-3.4.1-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 
 A modern, feature-rich DNS lookup tool built with React and TypeScript.  Explore DNS records, perform batch lookups, and analyze DNS performance with an intuitive interface.
 
