@@ -15,6 +15,11 @@ A modern, feature-rich DNS lookup tool built with React and TypeScript.  Explore
 - Fast, cached responses
 - Query history tracking
 
+![Explore](public/images/explore.png)
+
+
+![Analytics](public/images/analytics.png)
+
 ## Quick Start
 
 ```bash
