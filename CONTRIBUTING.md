@@ -1,4 +1,4 @@
-## Contributing to this project 
+# Contributing to this project
 
 This repository is not accepting contributions via pull requests at this time. Feel free to fork it and modify the code to suit your needs. Contributions are not currently being merged back into the project.
 
